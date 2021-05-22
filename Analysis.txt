@@ -1,0 +1,11 @@
+
+Pymaceuticals Analysis
+
+1) Among the 10 drug regimens used to treat mice, capomulin has been shown to be the most effective drug in reducing tumor volume(mm3) by 82.71% at timepoint 45 for 50% of its 200 mice sample.
+2) Mouse ID = t565 
+   Drug Regimen= Capomulin
+   Timepoint 0 = 45 (tummor volume (mm3))
+   Timepoint 45 = 34.45 (tummor volume (mm3)
+ After analyzing the mouse ID t565 treated with capomulin, we can infer that the tumor volume (mm3) decreased by 23.4%		
+	 
+3) One of the factors that influence the efficiency of the treatment with Capomulin is weight. Through the correlation we can infer that by an aument in the weight the tumor volume will increase by 84% 
